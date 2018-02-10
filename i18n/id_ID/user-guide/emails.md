@@ -18,7 +18,7 @@ Anda dibolehkan menentukan *Folder* dalam Akun Email Pribadi. Email masuk akan d
 
 Pengguna dapat mengatur pengaturan SMTP di Preferensi seperti di Akun Email Pribadi mereka. Administrator juga dapat mengizinkan untuk menggunakan sistem SMTP (bersamaan).
 
-Pengguna dapat mempunyai beberapa akun SMTP (sejak versi 4.2.0). Tetapi alamat email pengguna dapat digunakan untuk mengirim email dari yang sudah ditentukan oleh alamat email dari riwayat *Pengguna*.
+Pengguna dapat mempunyai beberapa akun SMTP (sejak versi 4.2.0). Tetapi alamat email pengguna dapat digunakan untuk mengirim email dari yang sudah ditentukan oleh alamat email dari riwayat *Pengguna*
 
 ## Bekerja dengan Email
 
